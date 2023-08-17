@@ -1,10 +1,6 @@
 #!/bin/bash
 # Author: Rizal Fakhri <rizal@codehub.id>
 
-. $HOME/helpers/support/app-check.sh
-. $HOME/helpers/support/os-detector.sh
-. $HOME/helpers/support/string-helper.sh
-. $HOME/helpers/support/welcome-screen.sh
 
 apt update -y
 clear
